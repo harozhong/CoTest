@@ -7,4 +7,4 @@ paramNameValStruct.StateSaveName  = 'xoutnew';
 paramNameValStruct.SaveOutput     ='on';
 paramNameValStruct.OutputSaveName = 'youtnew';
 simout=sim('D:\工作\项目工作\test_model\karlman_lanefit.slx',paramNameValStruct);
-save('D:\工作\项目工作\持续集成\CoTest\simout6.mat', 'simout')
+save('D:\工作\项目工作\持续集成\CoTest\simout7.mat', 'simout')
