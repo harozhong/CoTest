@@ -7,4 +7,4 @@ paramNameValStruct.StateSaveName  = 'xoutnew';
 paramNameValStruct.SaveOutput     ='on';
 paramNameValStruct.OutputSaveName = 'youtnew';
 simout=sim(karlman_lanefit.slx,paramNameValStruct);
-save('D:\Jenkins\workspace\simout15.mat', 'simout')
+save('D:\Jenkins\workspace\simout16.mat', 'simout')
