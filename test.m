@@ -1,5 +1,5 @@
 % open_system('D:\工作\项目工作\test_model\karlman_lanefit.slx')
-load(T025.mat)
+load T025.mat;
 paramNameValStruct.simulationMode = 'normal';
 paramNameValStruct.AbsTol         = '1e-5';
 paramNameValStruct.SaveState      = 'on';
